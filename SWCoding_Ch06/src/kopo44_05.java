@@ -1,4 +1,4 @@
-package java210421;
+
 
 public class kopo44_05 {
 	

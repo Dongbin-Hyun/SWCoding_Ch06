@@ -1,22 +1,21 @@
-package java210421;
 
 public class kopo44_Main_TvRemocon3_X {
 	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		 kopo44_Process_TvRemocon3_X tvRemoconX = new  kopo44_Process_TvRemocon3_X();
+		 kopo44_Process_TvRemocon3_X kopo44_tvRemoconX = new  kopo44_Process_TvRemocon3_X();
 		
 		System.out.println("---------------");
-		tvRemoconX.channelUp();
+		kopo44_tvRemoconX.kopo44_channelUp();
 		System.out.println("---------------");
-		tvRemoconX.channelDown();
+		kopo44_tvRemoconX.kopo44_channelDown();
 		System.out.println("---------------");
-		tvRemoconX.volumeUp();
+		kopo44_tvRemoconX.kopo44_volumeUp();
 		System.out.println("---------------");
-		tvRemoconX.volumeDown();
+		kopo44_tvRemoconX.kopo44_volumeDown();
 		System.out.println("---------------");
-		tvRemoconX.batteryCheck();
+		kopo44_tvRemoconX.kopo44_batteryCheck();
 
 	}
 

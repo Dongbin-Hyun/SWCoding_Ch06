@@ -1,4 +1,4 @@
-package java210421;
+
 
 public class kopo44_04 {
 	int kopo44_limit_up_floor = 10;
